@@ -14,4 +14,12 @@ for first time users add a configuration.
 git config --global user.email "your email"
 git config -- global user.name "your github user name"
 
+4. git remote add origin - adds files  to a specified remote location
+
+NB TO UPDATE USE COMMANDS
+git add .
+git commit -m "message"
+git push -u origin master
+
+Documented by Wangui
 
