@@ -1,0 +1,17 @@
+GIT COMMANDS
+1.git init
+initialize a .git repository
+
+2. git add (filename or  . or  *)
+file name adds a specific file in .git
+(.) adds all files except those you have ignored
+(*) adds all files
+
+3. git commit -m "message"
+commits or changes into the repository
+
+for first time users add a configuration.
+git config --global user.email "your email"
+git config -- global user.name "your github user name"
+
+
